@@ -1,0 +1,13 @@
+.notif
+{
+    height: 50px;
+    width: 90%;
+    margin-left: 20px;
+    margin-top: 10px;
+    border: 1px solid red;
+}
+h2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}

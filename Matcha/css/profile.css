@@ -1,0 +1,176 @@
+.upload_pp
+{
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+}
+upload_img
+{
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+label
+{
+    padding: 10px;   
+}
+.propic
+{
+    display: none;
+}
+
+.propic input[type="file"] 
+{
+    overflow: hidden;
+}
+.minigallery
+{
+    height: 150px;
+    width: 120px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+ .button
+{
+    height: 30px;
+    width: 100px;
+    margin-left: 20px;
+    color: white;
+    background: black;
+    border: none;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3
+{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 20px;
+    margin-left: 20px;
+}
+.centered
+{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, 10%);
+    height: 90%;
+    width: 830px;
+}
+.sidebar
+{
+    height: 85%;
+    width: 250px;
+    margin-left: 20px;
+    /* background-color: black; */
+    position: fixed;
+}
+.profpic
+{
+    height: 250px;
+    width: 250px;
+}
+.sidebtn
+{
+    height: 50px;
+    width: 240px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border: none;
+    background-color: #ff1919;
+    color: white;
+    font-size: 15px;
+}
+.span
+{
+    height: 50px;
+    width: 240px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border: none;
+    background-color: #ff1919;
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sidebtn:active
+{
+    background-color: black;
+}
+.infobar
+{
+    float: left;
+    margin-left: 280px;
+    background-color: bisque;
+    height: 85%;
+    width: 500px;
+}
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 20px;
+    /* color: #ff1919; */
+}
+h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+input
+{
+    margin-left: 20px;
+    width: 300px;
+    height: 30px;
+}
+select
+{
+    margin-left: 20px;
+    width: 300px;
+    height: 30px;
+    background-color: white;
+    font-size: 15px;  
+}
+.location
+{
+    margin-left: 20px;
+    width: 300px;
+    height: 30px;
+    background-color: black;
+    font-size: 15px;
+    color: white;
+    border: none;
+}
+.updateinfo
+{
+    margin-left: 20px;
+    width: 300px;
+    height: 30px;
+    background-color: red;
+    font-size: 15px;
+    color: white;
+    border: none;
+}
+textarea
+{
+    width: 300px;
+    height: 100px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.searchprofile
+{
+    height: 250px;
+    width: 180px;
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+    margin-top: 15px;
+    float: left;
+    background: white;
+}

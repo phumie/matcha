@@ -1,0 +1,129 @@
+body 
+{
+    margin: 0;
+}
+h2
+{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.topnav {
+  overflow: hidden;
+  background-color: black;
+  /* background-color: #4281A4; */
+}
+
+.topnav a {
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.topnav a.left {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+    background-color: #ff1919;
+    color: white;
+}
+.img
+{
+    width: 20px;
+    height: 20px;
+}
+.sort
+{
+  overflow: hidden;
+  width: 98%;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 10px;
+  /* background-color: red; */
+}
+.suggested
+{
+  overflow: hidden;
+  width: 98%;
+  height: 390px;
+  margin-top: 20px;
+  margin-left: 10px;
+  background-color: #d8bfd8;
+  overflow-x: scroll;
+}
+.buttonsort
+{
+    float: left;
+    border: none;
+    background-color: black;
+    height: 20px;
+    width: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+.profile
+{
+  height: 290px;
+  width: 180px;
+  border: 1px solid black;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 15px;
+  margin-top: 15px;
+  float: left;
+}
+p
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.profileimg
+{
+  height: 120px;
+  width: 120px;
+  margin-left: 25px;
+}
+.likebtn
+{
+  height: 15px;
+  width: 15px;
+}
+.suggestprofile
+{
+  height: 250px;
+  width: 180px;
+  border: 1px solid black;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 15px;
+  margin-top: 15px;
+  float: left;
+  background: white;
+}
+.suggestbtn
+{
+  height: auto;
+  width: auto;
+  border: none;
+  background: red;
+  margin-left: 20px;
+  color: white;
+  margin-top: 10px;
+}

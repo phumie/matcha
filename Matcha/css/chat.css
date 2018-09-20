@@ -1,0 +1,82 @@
+.sidebar
+{
+    height: 80%;
+    width: 250px;
+    margin-left: 10%;
+    background-color: black;
+    position: fixed;
+    color: white;
+}
+h3
+{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 20px;
+    margin-left: 20px;
+    text-align: center;
+}
+h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.user
+{
+    height: 30px;
+    width: 240px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border: none;
+    background-color: #ff1919;
+    color: white;
+    font-size: 15px;
+}
+.username
+{
+    text-align: center;
+}
+.chat
+{
+    float: left;
+    margin-left: 30%;
+    background-color: white;
+    height: 80%;
+    width: 800px;
+}
+.msg
+{
+    float: left;
+    margin-left: 30%;
+    margin-top: 0px;
+    background-color: #d8bfd8;
+    height: auto;
+    width: 700px;
+    margin-left: 30px;
+}
+.type_msg
+{
+    display: flex;
+    align-items: flex-end;
+    height: 75%;
+    float: left;
+}
+textarea{
+    width: 500px;
+    height: 50px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.button
+{
+    height: 30px;
+    width: 100px;
+    margin-left: 20px;
+    color: white;
+    background: black;
+    border: none;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
